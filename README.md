@@ -1,7 +1,7 @@
 <h2 align="center">Hello everyone. Thank you for viewing my profile. </h2>
 
 
-<h2>info</h2>
+<h2>Info</h2>
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=sironeko0295&theme=juicyfresh&no-bg=true" />  
