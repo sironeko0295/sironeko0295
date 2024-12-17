@@ -8,5 +8,7 @@
 </div>
   
   
-**Programming Languages**  
+<h2>**Programming Languages**</h2>
+
+
 ![](https://skillicons.dev/icons?i=c,cs,python,html,css,js,java)  
